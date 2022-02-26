@@ -1,4 +1,7 @@
+import code
+
+
 a =1;
 b = 2;
-print (a + b);
-//sample teest
+c= 40 ;
+print (a + b + c); #checkin code
