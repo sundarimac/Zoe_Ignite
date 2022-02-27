@@ -8,3 +8,4 @@ print (a + b + c); #same line code edit _ add both changes
 # some neew line aaded in git
 #variable control 
 #  #kinder
+#new winsker
